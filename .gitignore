@@ -1,0 +1,8 @@
+.env
+
+# Ignore build directories or files
+
+# Firmware build directories
+firmware/.cache
+firmware/.pio
+firmware/compile_commands.json

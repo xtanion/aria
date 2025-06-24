@@ -1,0 +1,13 @@
+CompileFlags:
+  Add: [
+    "--all-scopes-completion",
+    "--header-insertion=iwyu",
+    "--background-index"
+  ]
+
+Diagnostics:
+  Suppress: [
+    "attribute_section_invalid_for_target",
+    "unknown-attributes",
+    "unknown-warning-option"
+  ]
