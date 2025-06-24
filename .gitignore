@@ -1,6 +1,7 @@
 .env
 
 # Ignore build directories or files
+backend/.env
 
 # Firmware build directories
 firmware/.cache

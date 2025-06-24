@@ -9,6 +9,14 @@
         "path": "/usr/bin/clangd",
         "arguments": ["--function-arg-placeholders=0"]
       }
+    },
+    "pyright": {
+      "settings": {
+        "python": {
+          "pythonPath": "/Users/xtanion/Library/Caches/pypoetry/virtualenvs/backend-mtTpv68--py3.12",
+          "tool": "poetry"
+        }
+      }
     }
   }
 }
