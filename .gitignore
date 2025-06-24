@@ -6,4 +6,5 @@ backend/.env
 # Firmware build directories
 firmware/.cache
 firmware/.pio
+firmware/src/config.cpp
 firmware/compile_commands.json
